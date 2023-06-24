@@ -1,8 +1,12 @@
 # Despicable UI
 
-![App Demo](./demo/demo.mp4)
-
 Despicable UI is a Flutter app that showcases some cool animations that can be used in your own Flutter projects.
+
+## Demo
+
+<video  height="450" controls>
+  <source src="./demo/demo.mp4" type="video/mp4">
+</video>
 
 ## Getting Started
 
