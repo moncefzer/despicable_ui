@@ -4,9 +4,7 @@ Despicable UI is a Flutter app that showcases some cool animations that can be u
 
 ## Demo
 
-<video  height="450" controls>
-  <source src="https://youtu.be/tvo_Ke60tQ0" type="video/mp4">
-</video>
+![App Demo](https://youtu.be/tvo_Ke60tQ0)
 
 ## Getting Started
 
