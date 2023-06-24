@@ -1,16 +1,19 @@
-# despicable_ui
+# Despicable UI
 
-A new Flutter project.
+![App Demo](./demo/demo.mp4)
+
+Despicable UI is a Flutter app that showcases some cool animations that can be used in your own Flutter projects.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run the Despicable UI app on your local machine, follow these steps:
 
-A few resources to get you started if this is your first Flutter project:
+1. Make sure you have Flutter installed. If not, refer to the [Flutter documentation](https://flutter.dev/docs/get-started/install) for installation instructions.
+2. Clone this repository: `git clone https://github.com/moncefzer/despicable_ui.git`
+3. Navigate to the project directory: `cd despicable_ui`
+4. Install dependencies: `flutter pub get`
+5. Run the app: `flutter run`
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## License
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project is licensed under the MIT License.

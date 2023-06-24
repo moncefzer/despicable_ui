@@ -1,8 +1,8 @@
-import 'package:despicable_ui/core/theme/app_themes.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 
 import 'pages/home_page.dart';
+import 'theme/app_themes.dart';
 
 void main() {
   runApp(const MyApp());
